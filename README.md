@@ -7,3 +7,9 @@
 ## Tecnologias que conheço!
 
 ---
+
+<p aling="left">
+  <img scr="https://skillicons.dev/icons?i=cs,angular,.NET,typscript,javascript" />
+</p>
+
+<br/>
